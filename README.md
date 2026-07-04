@@ -1,6 +1,6 @@
 # Rahul M
 
-::: {align="center"}
+
 # 👋 Hi, I'm Rahul M
 
 ### AI & Data Science Student \| Machine Learning \| Computer Vision \| Deep Learning
