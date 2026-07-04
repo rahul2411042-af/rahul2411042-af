@@ -6,7 +6,7 @@
 ### AI & Data Science Student \| Machine Learning \| Computer Vision \| Deep Learning
 
 Coimbatore, Tamil Nadu, India
-:::
+
 
 ------------------------------------------------------------------------
 
